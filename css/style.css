@@ -52,3 +52,17 @@ h1 {
 img {
   max-width: 100%;
 }
+
+
+.bg {
+    /* The image used */
+    opacity: 0.3;
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
