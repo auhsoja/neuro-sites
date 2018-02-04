@@ -48,3 +48,7 @@ h1 {
 .h5 {
     font-weight: bolder;
 }
+
+img {
+  max-width: 100%;
+}
