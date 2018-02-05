@@ -53,6 +53,9 @@ img {
   max-width: 100%;
 }
 
+html, body {
+  height: 100%;
+}
 
 .bg {
     /* The image used */
